@@ -1,0 +1,46 @@
+h2 {
+  font-weight: 900;
+  font-size: x-large;
+  line-height: 48px;
+  margin: 20px auto;
+  padding: 0px;
+  font-family: "Glory", sans-serif;
+  color: rgb(255, 136, 239);
+  font-size: 50px;
+  text-align: right;
+  display: block;
+}
+body {
+  border: solid rgb(96, 175, 6);
+  border-radius: 20px;
+  padding: 10px 0;
+  margin: 0 auto;
+  display: block;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: x-large;
+  line-height: -28px;
+  margin: 10px;
+  font-family: "Glory", sans-serif;
+  font-size: 150px;
+  text-align: left center;
+  color: #76d1cb;
+}
+img {
+  display: block;
+  margin-left: 335px;
+  border-radius: 25px;
+  position: static;
+  box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+  font-weight: 1000;
+}
+.weekly {
+  font-family: "Glory", sans-serif;
+  text-decoration: none;
+  color: rgb(96, 175, 6);
+  font-weight: 900;
+  font-size: larger;
+  padding: -20px;
+}
